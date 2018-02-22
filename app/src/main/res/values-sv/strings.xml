@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CryptoExchange</string>
+    <string name="app_name">Omvandlare</string>
     <string name="convert">Konvertera</string>
     <string name="enter_amount">Skriv Antal</string>
     <string name="fromcurr">Från</string>
